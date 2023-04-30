@@ -1,0 +1,3 @@
+﻿FinalProjectDlg.obj : error LNK2019: unresolved external symbol __imp_PlaySoundW referenced in function "public: void __cdecl CFinalProjectDlg::OnBnClickedChill(void)" (?OnBnClickedChill@CFinalProjectDlg@@QEAAXXZ)
+FinalProjectDlg.obj : error LNK2019: unresolved external symbol __imp_waveOutSetVolume referenced in function "public: void __cdecl CFinalProjectDlg::OnHScroll(unsigned int,unsigned int,class CScrollBar *)" (?OnHScroll@CFinalProjectDlg@@QEAAXIIPEAVCScrollBar@@@Z)
+C:\Users\rotem\source\repos\RoteGer\Paint\FinalProject\x64\Debug\FinalProject.exe : fatal error LNK1120: 2 unresolved externals
